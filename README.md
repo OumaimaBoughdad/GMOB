@@ -14,4 +14,4 @@ This project is a Unity-based game where I implemented procedural dungeon genera
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/OumaimaBoughdad/GMOB.git
